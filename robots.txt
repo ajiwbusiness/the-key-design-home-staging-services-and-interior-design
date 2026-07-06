@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-key-design-home-staging-services-and-interior-design-salt-lake-city.pages.dev/sitemap.xml
